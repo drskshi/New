@@ -1,0 +1,14 @@
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+h1{
+    font-family: 'Antonio', sans-serif;
+}
+.carousel-item img{
+    width: 50%;
+    height:80vh;
+}
